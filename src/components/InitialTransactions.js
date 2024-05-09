@@ -1,3 +1,4 @@
+
 export const initialTransactions = [
     {
       date: new Date('1/12/2019'),
